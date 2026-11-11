@@ -1,8 +1,8 @@
 # mc-rkn-bypass
 
-This is a modded version of **zapret**, originally created by [@bol-van](https://github.com/bol-van/zapret) and [@Flowseal](https://github.com/Flowseal/zapret-discord-youtube). It bypasses DPI blocking and includes the specialized **mc-rkn-bypass** strategy, which allows connecting to European Minecraft servers.
+This is a modded version of **zapret**, originally created by [@bol-van](https://github.com/bol-van/zapret) and [@Flowseal](https://github.com/Flowseal/zapret-discord-youtube). It bypasses DPI blocking and includes the specialized **mc-rkn-bypass** strategy, which allows connecting to blocked by RKN Minecraft servers.
 
-Это модифицированная версия **zapret**, изначально созданная [@bol-van](https://github.com/bol-van/zapret) и [@Flowseal](https://github.com/Flowseal/zapret-discord-youtube). Она обходит DPI-блокировки и включает специализированную стратегию **MC_EU**, которая позволяет подключаться к европейским серверам Minecraft.
+Это модифицированная версия **zapret**, изначально созданная [@bol-van](https://github.com/bol-van/zapret) и [@Flowseal](https://github.com/Flowseal/zapret-discord-youtube). Она обходит DPI-блокировки и включает специализированную стратегию **mc-rkn-bypass**, которая позволяет подключаться к заблокированным РКНом серверам Minecraft.
 
 > ⚠️ **IMPORTANT / ВАЖНО**
 > 
